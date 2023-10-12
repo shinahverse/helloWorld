@@ -1,0 +1,10 @@
+body {
+    font-family: system-ui;
+    background: linear-gradient(to bottom, darkorchid, rgba(153, 50, 204, 0.85));
+    color: white;
+    height: 100vh;
+    margin: 0;
+    display: grid;
+    place-items: center;
+  }
+  
